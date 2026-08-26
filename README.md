@@ -1,5 +1,9 @@
 # TechSupport Enterprise — Mesa de Ayuda e Incidentes IT
 
+Ivan Melendez Mireles
+Gustavo Adrian Garcia Cantu
+Alan Sifuentes Sanchez
+
 Proyecto en Java para el Equipo 4 (Tecnología & Software). Administra
 infraestructura informática usando tres estructuras de datos distintas,
 cada una elegida según el tipo de información que maneja.
